@@ -16,7 +16,7 @@
 <a href="https://www.codechef.com/users/pujamangale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pujamangale" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pujamangale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pujamangale" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pujamangale1221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pujamangale1221" height="30" width="40" /></a>
-<a href="https://discord.gg/#9439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9439" height="30" width="40" /></a>
+<a href="https://discord.gg/Puja_A_Mangale#9439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9439" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
