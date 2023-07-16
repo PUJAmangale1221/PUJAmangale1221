@@ -9,7 +9,7 @@
 - 💬 Ask me about **HTML, CSS, JS, React.js, MySQL, PHP Connections, Bootstrap,**
 
 - 📫 How to reach me **pujamangale@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/puja-mangale-aa0b58214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puja mangale" height="30" width="40" /></a>
