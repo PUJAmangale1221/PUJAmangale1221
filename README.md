@@ -1,6 +1,6 @@
 # Hi, I'm Puja Mangale 👋
 
-Software Engineer with 2+ years of experience building enterprise-scale financial systems and backend services using Java, Spring Boot, REST APIs, and SQL.
+Software Engineer with experience in building enterprise-scale financial systems and backend services using Java, Spring Boot, REST APIs, and SQL.
 
 Currently working on high-volume data processing, production engineering, CI/CD automation, and platform modernization projects for global banking clients. Passionate about designing scalable systems, distributed architectures, and cloud-native applications.
 
