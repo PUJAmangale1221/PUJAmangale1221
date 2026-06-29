@@ -1,66 +1,115 @@
-# Hi, I'm Puja Mangale 👋
+<h1 align="center">Hi 👋, I'm Puja Mangale</h1>
+<h3 align="center">Java Backend Developer | Software Engineer | Cloud Enthusiast ☁️</h3>
 
-Software Engineer with experience in building enterprise-scale financial systems and backend services using Java, Spring Boot, REST APIs, and SQL.
+<p align="center">
+Building scalable backend systems with Java, Spring Boot & Microservices.
+</p>
 
-Currently working on high-volume data processing, production engineering, CI/CD automation, and platform modernization projects for global banking clients. Passionate about designing scalable systems, distributed architectures, and cloud-native applications.
+---
 
-## What I Do
+## 👩‍💻 About Me
 
-🔹 Build scalable backend services with Java & Spring Boot
+💼 Software Engineer with 2+ years of enterprise experience
 
-🔹 Design and develop RESTful APIs and microservices
+☕ Backend Developer specializing in Java & Spring Boot
 
-🔹 Work with large-scale financial and transactional datasets
+🚀 Passionate about System Design, Distributed Systems & Cloud
 
-🔹 Improve software quality through testing, automation, and CI/CD
+🌱 Currently exploring Kubernetes, AWS & Event-Driven Architecture
 
-🔹 Explore distributed systems, event-driven architectures, and cloud technologies
+📍 Pune, India
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+`Java` `SQL` `JavaScript`
 
 **Backend**
-Java • Spring Boot • REST APIs • Spring Data JPA • Microservices
 
-**Databases**
-MySQL • MongoDB • DB2 • SQL Optimization
+`Spring Boot`
+`Spring Framework`
+`REST APIs`
+`Microservices`
+`Kafka`
+
+**Database**
+
+`MySQL`
+`MongoDB`
+`DB2`
 
 **Cloud & DevOps**
-AWS • Azure • Docker • GitHub Actions • TeamCity • Harness
 
-**Tools**
-Git • GitHub • GitLab • Postman • Jira • Linux
+`AWS`
+`Docker`
+`Git`
+`GitHub Actions`
+`Linux`
 
-## Certifications
+---
+
+## 🚀 Featured Projects
+
+### Distributed Transaction Processing System
+
+Enterprise backend application using
+
+- Java
+- Spring Boot
+- Microservices
+- Docker
+- REST APIs
+
+---
+
+### ESG Data Analytics Platform
+
+Backend platform using
+
+- Java
+- Kafka
+- PostgreSQL
+- Docker
+
+Designed using Event-Driven Architecture.
+
+---
+
+## 🏆 Certifications
 
 ✔ AWS Certified Cloud Practitioner
 
-✔ Microsoft Certified Azure AI Engineer Associate
+✔ Azure Developer Associate (AZ-204)
 
-✔ Microsoft Certified Azure Developer Associate
+✔ Azure AI Engineer Associate (AI-102)
 
-✔ Microsoft Certified Azure Fundamentals
+✔ Azure Fundamentals (AZ-900)
 
-## Current Focus
+---
 
-* Distributed Systems
-* Event-Driven Architecture with Kafka
-* Docker & Containerization
-* AWS Cloud Architecture
-* System Design
-* AI-Powered Applications
+## 📈 GitHub Stats
 
-## Open To
+![stats](https://github-readme-stats.vercel.app/api?username=Puja-Mangale&show_icons=true&theme=tokyonight)
 
-🌍 Remote Software Engineer Roles
+![streak](https://streak-stats.demolab.com?user=Puja-Mangale&theme=tokyonight)
 
-🌍 Backend Engineer Roles
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puja-Mangale&layout=compact&theme=tokyonight)
 
-🌍 Java / Spring Boot Opportunities
+---
 
-🌍 Cloud & Platform Engineering Projects
+## 🌐 Connect with Me
 
-## Connect With Me
+📧 pujamangale@gmail.com
 
-📧 [pujamangale@gmail.com](mailto:pujamangale@gmail.com)
+💼 LinkedIn:
+https://linkedin.com/in/puja-mangale-aa0b58214
 
-💼 LinkedIn: linkedin.com/in/puja-mangale-aa0b58214
+🌍 Portfolio:
+https://puja-mangale.github.io
+
+---
+
+> *"Clean code. Reliable systems. Continuous learning."* 🚀
